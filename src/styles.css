@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.container {
+  font-weight: 900;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-image: url("https://openai-labs-public-images-prod.azureedge.net/user-wuZfbbh76q2hzjdFHSxqoWfc/generations/generation-nOmLkZwrH9uy4yh5Vf9ORACo/image.webp");
+}
+
+.container h1 {
+  color: #7986cb;
+}
